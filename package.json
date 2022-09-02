@@ -17,12 +17,14 @@
     "fix:json": "prettier -w \"**/*.json\"",
     "fix:yml": "prettier -w \"**/*.yml\"",
     "lint:json": "prettier -c \"**/*.json\"",
+    "lint:md": "markdownlint \"**/*.md\" -i node_modules",
     "lint:yml": "prettier -c \"**/*.yml\""
   },
   "engines": {
     "node": "^16.0.0 || >=18.0.0"
   },
   "dependencies": {
+    "markdownlint-cli": "0.32.2",
     "prettier": "2.7.1"
   }
 }

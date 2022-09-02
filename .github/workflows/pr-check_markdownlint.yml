@@ -21,15 +21,11 @@ jobs:
           files: |
             **/*.md
 
-      - name: Copy upstream dependencies
-        run: |
-          curl -L https://raw.githubusercontent.com/mdn/content/main/package.json > package.json
-          curl -L https://raw.githubusercontent.com/mdn/content/main/yarn.lock > yarn.lock
-
       - name: Setup Node.js environment
         uses: actions/setup-node@v3
         with:
           node-version: "16"
+          cache: yarn
 
       - name: Install all yarn packages
         run: |
