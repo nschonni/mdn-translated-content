@@ -15,6 +15,7 @@
   },
   "scripts": {
     "fix:json": "prettier -w \"**/*.json\"",
+    "fix:md": "npm run lint:md -- --fix",
     "fix:yml": "prettier -w \"**/*.yml\"",
     "lint:json": "prettier -c \"**/*.json\"",
     "lint:md": "markdownlint \"**/*.md\" -i node_modules",
