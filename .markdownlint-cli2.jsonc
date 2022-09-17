@@ -96,6 +96,9 @@
         "tr",
         "ul",
         "var",
+        "ruby", //Used in some Korean documents
+        "rp", //Used in some Korean documents
+        "rt", //Used in some Korean documents
         "i", // French translations use this for English literal text
         "q", // French translations use this for English literal text
         "h2", // Not always converted currently because of live samples using English IDs
