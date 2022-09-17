@@ -130,5 +130,5 @@
     // Incompatible with brackets in macros like MD042
     "MD052": false
   },
-  "ignores": ["node_modules"]
+  "ignores": ["node_modules", "**/conflicting/**", "**/orphaned/**"]
 }
