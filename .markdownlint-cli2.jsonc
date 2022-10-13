@@ -15,8 +15,6 @@
     },
     "MD013": false,
     // Fixed upstream, needs PRs in this repo
-    "MD014": false,
-    // Fixed upstream, needs PRs in this repo
     "MD023": false,
     // Fixed upstream with "allow_different_nesting": true
     "MD024": false,
@@ -107,8 +105,6 @@
       ]
     },
     // Fixed upstream, needs PRs in this repo
-    "MD034": false,
-    // Fixed upstream, needs PRs in this repo
     "MD036": false,
     // Upstream fixing in https://github.com/mdn/content/pull/20115
     "MD037": false,
@@ -130,5 +126,5 @@
     // Incompatible with brackets in macros like MD042
     "MD052": false
   },
-  "ignores": ["node_modules", "**/conflicting/**", "**/orphaned/**", ".github/"]
+  "ignores": ["node_modules", "**/conflicting/**", "**/orphaned/**", ".github/", "files/**/fr/web/api/window/frames/index.md"]
 }
