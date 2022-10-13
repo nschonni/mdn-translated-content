@@ -24,6 +24,10 @@
     "MD026": false,
     // Consectutive Notes/Callouts currently don't conform with this rule
     "MD028": false,
+    // Force orderd numbering to catch accidental list ending from indenting
+    "MD029": {
+      "style": "ordered"
+    },
     "MD033": {
       "allowed_elements": [
         "a",
@@ -126,5 +130,5 @@
     // Incompatible with brackets in macros like MD042
     "MD052": false
   },
-  "ignores": ["node_modules", "**/conflicting/**", "**/orphaned/**", ".github/", "files/**/fr/web/api/window/frames/index.md"]
+  "ignores": ["node_modules", "**/conflicting/**", "**/orphaned/**", ".github/", "files/**/web/api/window/frames/index.md"]
 }
