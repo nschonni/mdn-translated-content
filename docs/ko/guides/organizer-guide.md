@@ -4,7 +4,7 @@
 
 1. 구성원 변경 요청.
 2. [PEERS_GUIDELINES.md](https://github.com/mdn/translated-content/blob/main/PEERS_GUIDELINES.md) 페이지의 `Korea (ko) content — the @yari-content-ko team, which consists of:` 수정.
-3. [Localizing MDN](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Localize) 페이지의 `Active locales/Korea (ko)/Current contributors` 수정.
+3. [Localizing MDN][] 페이지의 `Active locales/Korea (ko)/Current contributors` 수정.
 
 ## 리뷰어 지침
 
@@ -34,3 +34,5 @@
 ## 참고 사항
 
 - [mozilla mdn chat](https://chat.mozilla.org/#/room/#mdn:mozilla.org) 채널 및 [yari-content-ko](https://github.com/orgs/mdn/teams/yari-content-ko)에서 질문 및 토론을 할 수 있습니다.
+
+[Localizing MDN]: https://developer.mozilla.org/en-US/docs/MDN/Contribute/Localize
