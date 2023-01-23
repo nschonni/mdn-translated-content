@@ -5431,7 +5431,6 @@
 /ja/docs/dummySlug/Reference/Statements/while	/ja/docs/Web/JavaScript/Reference/Statements/while
 /ja/docs/dummySlug/Reference/Statements/with	/ja/docs/Web/JavaScript/Reference/Statements/with
 /ja/docs/dummySlug/text-shadow	/ja/docs/Web/CSS/text-shadow
-/ja/docs/en	/en-US/
 /ja/docs/indexOf	/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 /ja/docs/javascript_typed_arrays/ArrayBuffer	/ja/docs/Web/JavaScript/Reference/Global_objects/ArrayBuffer
 /ja/docs/javascript_typed_arrays/ArrayBufferView	/ja/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
